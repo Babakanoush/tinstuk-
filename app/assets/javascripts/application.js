@@ -1,0 +1,14 @@
+//= require jquery
+//= require jquery_ujs
+//= require turbolinks
+//= require bootstrap-sprockets
+//= require jquery.jTinder
+//= require jquery.transform2d
+//= require tinysort
+//= require jquery.tinysort
+//= require jquery.easing.min
+//= require supersized.3.2.7
+//= require jasny-bootstrap
+//= require sweetalert.min
+//= require data-confirm-modal
+//= require_tree .
